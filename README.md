@@ -114,7 +114,8 @@ Copyright (c) 2025 Your Name
     <h2 id="contact">Contact</h2>
     <p class="meta">Maintained by <strong>Your Name</strong> — <a href="mailto:you@example.com">you@example.com</a></p>
 
-    <footer>Made with ❤️ — edit this README to match your Blinkit analysis and replace the banner image at <code>assets/blinkit-banner.png</code>.</footer>
+    <footer>Made with ❤️ — edit this README to match your Blinkit analysis and replace the banner image at <code>assets/./assets/blinkit-banner.png
+</code>.</footer>
   </div>
 </body>
 </html>
